@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- I'm currently learning SQL for data analytics.
 <!--
 **Vithushan4/Vithushan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
