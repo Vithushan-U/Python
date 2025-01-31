@@ -16,4 +16,4 @@ This Python-based analysis explores trends in farm capital, revenue, and expense
 Despite a decline in the number of reporting farms, farm revenue, expenses, and total capital have steadily increased. This suggests that while fewer farms operate, the sector remains financially strong.
 
 ## How to Access the Notebook
-Please click on the Google Colab notebook in the repository files to explore the full analysis.
+Please refer to the Google Colab notebook available in the files section of this repository. It contains a detailed breakdown of the analysis process, the Python code used, and the visualizations generated
