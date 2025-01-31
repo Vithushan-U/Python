@@ -29,9 +29,18 @@ Now that we've examined the total revenue and expenses, we can turn our focus to
 
 <img width="709" alt="Python 3" src="https://github.com/user-attachments/assets/dee95b33-fca9-49fd-ba2b-b648b0f13528" />
 
-
 ## Key Insights
 Despite a decline in the number of reporting farms, farm revenue, expenses, and total capital have steadily increased. This suggests that while fewer farms operate, the sector remains financially strong.
+
+## Challanges & Learnings
+
+Developing Python visualizations presented several challenges, particularly when working with different libraries and their specific requirements.
+
+- **Library Syntax & Logic:** Adapting to the syntax of Python visualization libraries, especially Seaborn, required understanding what types of logic were permitted.
+- **Data Formatting Issues:** Certain values, such as "Year" and "Number of Farms Reporting," needed to be converted from strings to integers to function correctly in visualizations.
+- **Seaborn-Specific Constraints:** Creating bar plots in Seaborn required using a DataFrame as the data source, which was an adjustment when transitioning from other visualization tools.
+
+Despite these challenges, Python’s readability and structure made it easier to grasp, facilitating a smoother learning process
 
 ## How to Access the Notebook
 Please refer to the Google Colab notebook available in the files section of this repository. It contains a detailed breakdown of the analysis process, the Python code used, and the visualizations generated
