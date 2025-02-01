@@ -40,7 +40,7 @@ Developing Python visualizations presented several challenges, particularly when
 - **Data Formatting Issues:** Certain values, such as "Year" and "Number of Farms Reporting," needed to be converted from strings to integers to function correctly in visualizations.
 - **Seaborn-Specific Constraints:** Creating bar plots in Seaborn required using a DataFrame as the data source, which was an adjustment when transitioning from other visualization tools.
 
-Despite these challenges, Python’s readability and structure made it easier to grasp, facilitating a smoother learning process
+Despite these challenges, Python’s readability and structure made it easier to grasp, facilitating a smooth learning process. 
 
 ## How to Access the Notebook
 Please refer to the Google Colab notebook available in the files section of this repository. It contains a detailed breakdown of the analysis process, the Python code used, and the visualizations generated
